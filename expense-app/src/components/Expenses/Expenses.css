@@ -1,0 +1,13 @@
+.expenses{
+    margin: 2rem auto;
+    width: 60%;
+    height: 60%;
+    background-color: rgb(19, 14, 14);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+ }
